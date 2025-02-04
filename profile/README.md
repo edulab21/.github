@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center"> eduLab21 </h1>
 
 <h2 align="center"> Science Educational Laboratory Ayrton Senna Institute </h2>
