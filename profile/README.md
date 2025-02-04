@@ -24,7 +24,9 @@
 - 📚 
 
 ### Our team
-
+- eduLab21 team: Ana Carla Crispim, Ana Carolina Zuanazzi, Gisele Alves, Karen Teixeira, Lilian Dantas.
+- Scientific Committee: Daniel Santos, Filip De Fruyt, Oliver P. John, Ricardo Primi.
+- Associated researchers: Alexandre Peres, Araê (confirmar nome), Felipe Valentini, José Maurício Haas Bueno, Karina da Silva Oliveira, Nelson Hauck Filho, Priscila Zaia Bassinello, Sheila Hamburg.
 
 ### Contact information
 - We actively seek diverse research collaborations with other institutions and individuals. Reach out to hear more information, let's talk!
